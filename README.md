@@ -14,3 +14,22 @@ Una empresa de reciente creación en la industria del juego necesita encontrar l
    * 1 Un chico de mantenimiento que le encanta el baloncesto
    * 10 Ejecutivos
    * 1 CEO/Presidente
+
+Preferences by priority
+
+​A los desarrolladores les gusta estar cerca de startups tecnológicas exitosas que han recaudado al menos 1 millón de dólares.
+
+​A los diseñadores les gusta ir a charlas de diseño y compartir conocimientos. Debe haber algunas empresas cercanas que también hacen diseño.
+
+*Como a todos los ejecutivos les encanta Starbucks. Asegúrese de que hay un Starbucks no muy lejos.
+
+* Los account managers necesitan  viajar mucho
+
+*El CEO es vegano
+
+*El 30% de la plantilla tiene un hijo menor de 1 año
+
+* Todas las personas en la compañía tienen entre 25 y 40 años... necesitan una discoteca cerca. 
+
+
+*The office dog "Pepe" needs a hairdresser every month. Ensure there's one not too far away.
