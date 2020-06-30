@@ -23,13 +23,11 @@ Preferences by priority
 
 *Como a todos los ejecutivos les encanta Starbucks. Asegúrese de que hay un Starbucks no muy lejos.
 
-* Los account managers necesitan  viajar mucho
+*Los account managers necesitan  viajar mucho
 
 *El CEO es vegano
 
 *El 30% de la plantilla tiene un hijo menor de 1 año
 
-* Todas las personas en la compañía tienen entre 25 y 40 años... necesitan una discoteca cerca. 
+*Todas las personas en la compañía tienen entre 25 y 40 años... necesitan una discoteca cerca. 
 
-
-*The office dog "Pepe" needs a hairdresser every month. Ensure there's one not too far away.
